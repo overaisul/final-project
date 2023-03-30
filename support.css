@@ -1,0 +1,175 @@
+.support-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  box-shadow: 0 16px 32px rgba(36, 216, 6, 0.25);
+  width: 1880px;
+  height: 95px;
+}
+.vector-icon4 {
+  position: absolute;
+  height: 5.18%;
+  width: 4.58%;
+  top: 2.06%;
+  right: 91.21%;
+  bottom: 92.77%;
+  left: 4.2%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.about-us4,
+.chat-box4,
+.home4,
+.life-line4,
+.profile5,
+.support5 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 21px;
+  left: 165px;
+  font-size: var(--font-size-17xl);
+  font-weight: 700;
+  font-family: var(--font-poppins);
+  color: var(--color-seagreen);
+  text-align: center;
+  display: inline-block;
+  width: 186px;
+  height: 38px;
+}
+.about-us4,
+.chat-box4,
+.home4,
+.profile5,
+.support5 {
+  top: 33px;
+  left: 1053px;
+  font-size: var(--font-size-5xl);
+  width: 120px;
+}
+.about-us4,
+.chat-box4,
+.profile5,
+.support5 {
+  left: 1203px;
+  width: 121px;
+}
+.about-us4,
+.chat-box4,
+.profile5 {
+  left: 1354px;
+  width: 129px;
+}
+.about-us4,
+.profile5 {
+  left: 1513px;
+  width: 130px;
+}
+.about-us4 {
+  left: 1675px;
+}
+.undraw-doctors-p6aq-1-icon {
+  position: absolute;
+  top: 187px;
+  left: 277px;
+  width: 624px;
+  height: 530px;
+  overflow: hidden;
+}
+.please-select-the1 {
+  position: absolute;
+  top: 270px;
+  left: 1033px;
+  display: inline-block;
+  width: 509px;
+  height: 150px;
+}
+.support-item {
+  position: absolute;
+  top: 795.5px;
+  left: 774.5px;
+  border-top: 3px solid var(--color-springgreen);
+  box-sizing: border-box;
+  width: 346px;
+  height: 3px;
+}
+.support-inner {
+  background-color: var(--color-seagreen);
+  top: 474px;
+  left: 1012px;
+  border-radius: var(--br-3xs);
+  width: 295px;
+  height: 198px;
+}
+.heart-attack1,
+.stroke1,
+.support-child1,
+.support-inner {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  position: absolute;
+}
+.support-child1 {
+  background-color: var(--color-white);
+  top: 474px;
+  left: 1307px;
+  border-radius: var(--br-3xs);
+  box-shadow: 0 8px 32px rgba(1, 152, 116, 0.75);
+  width: 295px;
+  height: 198px;
+}
+.heart-attack1,
+.stroke1 {
+  background-color: transparent;
+  top: 608px;
+  left: 1035px;
+  font-size: var(--font-size-13xl);
+  font-weight: 700;
+  font-family: var(--font-poppins);
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  width: 243px;
+  height: 36px;
+}
+.stroke1 {
+  left: 1330px;
+  color: var(--color-seagreen);
+  height: 26px;
+}
+.undraw-heartbroken-cble-1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 500px;
+  left: 1099px;
+  width: 117px;
+  height: 97px;
+  overflow: hidden;
+}
+.undraw-heartbroken-cble-1-1 {
+  position: absolute;
+  top: 501px;
+  left: 1389px;
+  width: 126px;
+  height: 95px;
+  overflow: hidden;
+}
+.support4 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 920px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

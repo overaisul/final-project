@@ -1,0 +1,433 @@
+.stroke-child,
+.stroke-item {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  background-color: var(--color-seagreen);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.25);
+  width: 451px;
+  height: 917px;
+}
+.stroke-item {
+  background-color: var(--color-white);
+  box-shadow: 0 16px 32px rgba(36, 216, 6, 0.25);
+  width: 1880px;
+  height: 95px;
+}
+.vector-icon3 {
+  position: absolute;
+  height: 5.18%;
+  width: 4.58%;
+  top: 2.17%;
+  right: 91.21%;
+  bottom: 92.66%;
+  left: 4.2%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.about-us3,
+.chat-box3,
+.home3,
+.life-line3,
+.profile4,
+.support3 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 22px;
+  left: 165px;
+  font-size: var(--font-size-17xl);
+  font-weight: 700;
+  font-family: var(--font-poppins);
+  color: var(--color-seagreen);
+  text-align: center;
+  display: inline-block;
+  width: 186px;
+  height: 38px;
+}
+.about-us3,
+.chat-box3,
+.home3,
+.profile4,
+.support3 {
+  top: 34px;
+  left: 1053px;
+  font-size: var(--font-size-5xl);
+  width: 120px;
+}
+.about-us3,
+.chat-box3,
+.profile4,
+.support3 {
+  left: 1203px;
+  width: 121px;
+}
+.about-us3,
+.chat-box3,
+.profile4 {
+  left: 1354px;
+  width: 129px;
+}
+.about-us3,
+.profile4 {
+  left: 1513px;
+  width: 130px;
+}
+.about-us3 {
+  left: 1675px;
+}
+.stroke-inner {
+  position: absolute;
+  top: 157px;
+  left: 278px;
+  background-color: var(--color-white);
+  box-shadow: 0 8px 32px #019874;
+  width: 1438px;
+  height: 711px;
+}
+.loss-of-consciousness1,
+.seizure-activity1 {
+  position: absolute;
+  top: 307px;
+  left: 604px;
+  display: inline-block;
+  width: 433px;
+  height: 45px;
+}
+.seizure-activity1 {
+  top: 369px;
+  width: 422px;
+  height: 37px;
+}
+.asymmetric-facial-weakness1,
+.speech-disturbance1,
+.visual-field-defect1 {
+  position: absolute;
+  top: 426px;
+  left: 604px;
+  display: inline-block;
+  width: 446px;
+  height: 38px;
+}
+.speech-disturbance1,
+.visual-field-defect1 {
+  top: 606px;
+  width: 413px;
+  height: 37px;
+}
+.visual-field-defect1 {
+  top: 660px;
+  width: 391px;
+}
+.asymmetric-arm-weakness1,
+.asymmetric-leg-weakness1 {
+  position: absolute;
+  top: 548px;
+  left: 604px;
+  display: inline-block;
+  width: 413px;
+  height: 38px;
+}
+.asymmetric-arm-weakness1 {
+  top: 484px;
+  width: 328px;
+  height: 37px;
+}
+.please-select-the {
+  position: absolute;
+  top: 202px;
+  left: 664px;
+  display: inline-block;
+  font-family: var(--font-poppins);
+  text-align: center;
+  width: 642px;
+}
+.stroke-child1 {
+  position: absolute;
+  top: 267.5px;
+  left: 828.5px;
+  border-top: 3px solid var(--color-seagreen);
+  box-sizing: border-box;
+  width: 336px;
+  height: 3px;
+}
+.ellipse-input,
+.stroke-child2,
+.stroke-child3,
+.stroke-child4 {
+  cursor: pointer;
+  position: absolute;
+  top: 317px;
+  left: 1080px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 33px;
+  height: 31px;
+}
+.stroke-child2,
+.stroke-child3,
+.stroke-child4 {
+  left: 1243px;
+}
+.stroke-child3,
+.stroke-child4 {
+  top: 378px;
+  left: 1080px;
+}
+.stroke-child4 {
+  left: 1243px;
+}
+.stroke-child10,
+.stroke-child11,
+.stroke-child12,
+.stroke-child13,
+.stroke-child14,
+.stroke-child5,
+.stroke-child6,
+.stroke-child7,
+.stroke-child8,
+.stroke-child9 {
+  cursor: pointer;
+  position: absolute;
+  top: 440px;
+  left: 1080px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 33px;
+  height: 31px;
+}
+.stroke-child10,
+.stroke-child11,
+.stroke-child12,
+.stroke-child13,
+.stroke-child14,
+.stroke-child6,
+.stroke-child7,
+.stroke-child8,
+.stroke-child9 {
+  left: 1243px;
+}
+.stroke-child10,
+.stroke-child11,
+.stroke-child12,
+.stroke-child13,
+.stroke-child14,
+.stroke-child7,
+.stroke-child8,
+.stroke-child9 {
+  top: 502px;
+  left: 1080px;
+}
+.stroke-child10,
+.stroke-child11,
+.stroke-child12,
+.stroke-child13,
+.stroke-child14,
+.stroke-child8,
+.stroke-child9 {
+  left: 1243px;
+}
+.stroke-child10,
+.stroke-child11,
+.stroke-child12,
+.stroke-child13,
+.stroke-child14,
+.stroke-child9 {
+  top: 557px;
+  left: 1080px;
+}
+.stroke-child10,
+.stroke-child11,
+.stroke-child12,
+.stroke-child13,
+.stroke-child14 {
+  left: 1243px;
+}
+.stroke-child11,
+.stroke-child12,
+.stroke-child13,
+.stroke-child14 {
+  top: 612px;
+  left: 1080px;
+}
+.stroke-child12,
+.stroke-child13,
+.stroke-child14 {
+  left: 1243px;
+}
+.stroke-child13,
+.stroke-child14 {
+  top: 668px;
+  left: 1080px;
+}
+.stroke-child14 {
+  left: 1243px;
+}
+.no,
+.yes {
+  position: absolute;
+  top: 307px;
+  left: 1128px;
+  display: inline-block;
+  width: 54px;
+  height: 45px;
+}
+.no {
+  left: 1291px;
+}
+.no1,
+.no2,
+.no3,
+.no4,
+.no5,
+.no6,
+.yes1,
+.yes2,
+.yes3,
+.yes4,
+.yes5,
+.yes6 {
+  position: absolute;
+  top: 365px;
+  left: 1128px;
+  display: inline-block;
+  width: 54px;
+  height: 45px;
+}
+.no1,
+.no2,
+.no3,
+.no4,
+.no5,
+.no6,
+.yes2,
+.yes3,
+.yes4,
+.yes5,
+.yes6 {
+  left: 1291px;
+}
+.no2,
+.no3,
+.no4,
+.no5,
+.no6,
+.yes2,
+.yes3,
+.yes4,
+.yes5,
+.yes6 {
+  top: 427px;
+  left: 1128px;
+}
+.no2,
+.no3,
+.no4,
+.no5,
+.no6,
+.yes3,
+.yes4,
+.yes5,
+.yes6 {
+  left: 1291px;
+}
+.no3,
+.no4,
+.no5,
+.no6,
+.yes3,
+.yes4,
+.yes5,
+.yes6 {
+  top: 490px;
+  left: 1128px;
+}
+.no3,
+.no4,
+.no5,
+.no6,
+.yes4,
+.yes5,
+.yes6 {
+  left: 1291px;
+}
+.no4,
+.no5,
+.no6,
+.yes4,
+.yes5,
+.yes6 {
+  top: 547px;
+  left: 1128px;
+}
+.no4,
+.no5,
+.no6,
+.yes5,
+.yes6 {
+  left: 1291px;
+}
+.no5,
+.no6,
+.yes5,
+.yes6 {
+  top: 602px;
+  left: 1128px;
+}
+.no5,
+.no6,
+.yes6 {
+  left: 1291px;
+}
+.no6,
+.yes6 {
+  top: 657px;
+  left: 1128px;
+}
+.no6 {
+  left: 1291px;
+}
+.stroke-child15 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-seagreen);
+  position: absolute;
+  top: 750px;
+  left: 883px;
+  border-radius: var(--br-xl);
+  width: 308px;
+  height: 58px;
+}
+.send,
+.stroke {
+  text-align: left;
+  font-size: var(--font-size-13xl);
+}
+.send {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 755px;
+  left: 995px;
+  font-weight: 700;
+  font-family: var(--font-poppins);
+  color: var(--color-white);
+  display: inline-block;
+}
+.stroke {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 920px;
+  overflow: hidden;
+  color: var(--color-black);
+  font-family: var(--font-jaldi);
+}

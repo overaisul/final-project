@@ -1,0 +1,528 @@
+.heart-attack-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  box-shadow: 0 16px 32px rgba(36, 216, 6, 0.25);
+  width: 1880px;
+  height: 95px;
+}
+.vector-icon {
+  position: absolute;
+  height: 2.98%;
+  width: 4.58%;
+  top: 1.18%;
+  right: 91.21%;
+  bottom: 95.84%;
+  left: 4.2%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.life-line {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 21px;
+  left: 165px;
+  font-size: var(--font-size-17xl);
+  font-weight: 700;
+  font-family: var(--font-poppins);
+  color: var(--color-seagreen);
+  display: inline-block;
+  width: 186px;
+  height: 38px;
+}
+.home,
+.life-line,
+.support {
+  position: absolute;
+  text-align: center;
+}
+.home {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 33px;
+  left: 1053px;
+  font-size: var(--font-size-5xl);
+  font-weight: 700;
+  font-family: var(--font-poppins);
+  color: var(--color-seagreen);
+  display: inline-block;
+  width: 120px;
+  height: 38px;
+}
+.support {
+  left: 1203px;
+  width: 121px;
+}
+.chat-box,
+.profile,
+.support {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 33px;
+  font-size: var(--font-size-5xl);
+  font-weight: 700;
+  font-family: var(--font-poppins);
+  color: var(--color-seagreen);
+  display: inline-block;
+  height: 38px;
+}
+.chat-box {
+  position: absolute;
+  left: 1354px;
+  text-align: center;
+  width: 129px;
+}
+.profile {
+  left: 1513px;
+  width: 130px;
+}
+.about-us,
+.heart-score-for,
+.profile {
+  position: absolute;
+  text-align: center;
+}
+.about-us {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 33px;
+  left: 1675px;
+  font-size: var(--font-size-5xl);
+  font-weight: 700;
+  font-family: var(--font-poppins);
+  color: var(--color-seagreen);
+  display: inline-block;
+  width: 130px;
+  height: 38px;
+}
+.heart-score-for {
+  top: 148px;
+  left: 595px;
+}
+.heart-attack-item {
+  position: absolute;
+  top: 216.5px;
+  left: 795.5px;
+  border-top: 3px solid var(--color-seagreen);
+  box-sizing: border-box;
+  width: 336px;
+  height: 3px;
+}
+.heart-attack-inner {
+  position: absolute;
+  top: 408px;
+  left: 1176px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-aquamarine);
+  width: 644px;
+  height: 1208px;
+}
+.heart-attack-child1,
+.line-icon {
+  position: absolute;
+  top: 547px;
+  left: 123.99px;
+  width: 960.01px;
+  height: 6px;
+}
+.heart-attack-child1 {
+  top: 837px;
+  left: 124px;
+  height: 5px;
+}
+.heart-attack-child2,
+.heart-attack-child3 {
+  position: absolute;
+  top: 983px;
+  left: 124px;
+  width: 960.02px;
+  height: 7.95px;
+}
+.heart-attack-child3 {
+  top: 1515px;
+  width: 960.01px;
+  height: 4.88px;
+}
+.heart-attack-child10,
+.heart-attack-child11,
+.heart-attack-child4,
+.heart-attack-child5,
+.heart-attack-child6,
+.heart-attack-child7,
+.heart-attack-child8,
+.heart-attack-child9,
+.rectangle-button {
+  cursor: pointer;
+  border: 1px solid var(--color-black);
+  padding: 0;
+  background-color: var(--color-white);
+  position: absolute;
+  top: 336px;
+  left: 511px;
+  border-radius: var(--br-3xs);
+  box-sizing: border-box;
+  width: 573px;
+  height: 58px;
+}
+.heart-attack-child10,
+.heart-attack-child11,
+.heart-attack-child4,
+.heart-attack-child5,
+.heart-attack-child6,
+.heart-attack-child7,
+.heart-attack-child8,
+.heart-attack-child9 {
+  top: 394px;
+}
+.heart-attack-child10,
+.heart-attack-child11,
+.heart-attack-child5,
+.heart-attack-child6,
+.heart-attack-child7,
+.heart-attack-child8,
+.heart-attack-child9 {
+  top: 452px;
+}
+.heart-attack-child10,
+.heart-attack-child11,
+.heart-attack-child6,
+.heart-attack-child7,
+.heart-attack-child8,
+.heart-attack-child9 {
+  top: 874px;
+  width: 191px;
+}
+.heart-attack-child10,
+.heart-attack-child11,
+.heart-attack-child7,
+.heart-attack-child8,
+.heart-attack-child9 {
+  left: 893px;
+}
+.heart-attack-child10,
+.heart-attack-child11,
+.heart-attack-child8,
+.heart-attack-child9 {
+  top: 876px;
+  left: 702px;
+}
+.heart-attack-child10,
+.heart-attack-child11,
+.heart-attack-child9 {
+  top: 586px;
+  left: 511px;
+  width: 573px;
+}
+.heart-attack-child10,
+.heart-attack-child11 {
+  top: 644px;
+}
+.heart-attack-child11 {
+  top: 702px;
+}
+.risk-factors {
+  margin: 0;
+}
+.risk-factors-htn {
+  margin: 0;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-400);
+}
+.risk-factors-risk-container {
+  position: absolute;
+  top: 1007px;
+  left: 124px;
+  display: inline-block;
+  width: 337px;
+}
+.management {
+  margin: 0;
+  font-size: var(--font-size-17xl);
+  text-decoration: underline;
+}
+.management-scores-0-3-container {
+  position: absolute;
+  top: 429px;
+  left: 1205px;
+  display: inline-block;
+  color: var(--color-gray-300);
+  width: 592px;
+  font-size: var(--font-size-9xl);
+}
+.age,
+.history {
+  position: absolute;
+  top: 330px;
+  left: 126px;
+}
+.age {
+  top: 879px;
+}
+.non-specific-repolarization-di,
+.normal-0,
+.significant-st-deviation,
+.slightly-suspicious-0 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 344px;
+  left: 526px;
+  font-size: var(--font-size-5xl);
+  font-weight: 700;
+  font-family: var(--font-poppins);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 565px;
+}
+.non-specific-repolarization-di,
+.normal-0,
+.significant-st-deviation {
+  top: 600px;
+}
+.non-specific-repolarization-di,
+.significant-st-deviation {
+  top: 658px;
+  width: 556px;
+}
+.significant-st-deviation {
+  top: 716px;
+  width: 565px;
+}
+.heart-attack-child12 {
+  cursor: pointer;
+  border: 1px solid var(--color-black);
+  padding: 0;
+  background-color: var(--color-white);
+  position: absolute;
+  top: 1547px;
+  left: 511px;
+  border-radius: var(--br-3xs);
+  box-sizing: border-box;
+  width: 573px;
+  height: 58px;
+}
+.highly-suspicious-2,
+.moderately-suspicious-1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 408px;
+  left: 526px;
+  font-size: var(--font-size-5xl);
+  font-weight: 700;
+  font-family: var(--font-poppins);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 592px;
+}
+.highly-suspicious-2 {
+  top: 468px;
+  width: 565px;
+}
+.heart-attack-child13,
+.heart-attack-child14,
+.heart-attack-child15 {
+  cursor: pointer;
+  border: 1px solid var(--color-black);
+  padding: 0;
+  background-color: var(--color-white);
+  position: absolute;
+  top: 1020px;
+  left: 511px;
+  border-radius: var(--br-3xs);
+  box-sizing: border-box;
+  width: 573px;
+  height: 58px;
+}
+.heart-attack-child14,
+.heart-attack-child15 {
+  top: 1078px;
+}
+.heart-attack-child15 {
+  top: 1136px;
+  height: 98px;
+}
+.no-known-risk,
+.risk-factors-1,
+.risk-factors-or {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 1028px;
+  left: 526px;
+  font-size: var(--font-size-5xl);
+  font-weight: 700;
+  font-family: var(--font-poppins);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 565px;
+}
+.risk-factors-1,
+.risk-factors-or {
+  top: 1092px;
+  width: 592px;
+}
+.risk-factors-or {
+  top: 1152px;
+  width: 565px;
+}
+.ekg-1-point-container {
+  position: absolute;
+  top: 572px;
+  left: 126px;
+  display: inline-block;
+  width: 369px;
+  height: 234px;
+}
+.button,
+.button1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 888px;
+  font-weight: 700;
+  font-family: var(--font-poppins);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+.button {
+  left: 722px;
+  font-size: var(--font-size-5xl);
+}
+.button1 {
+  left: 940px;
+}
+.button1,
+.button2,
+.use-local-regular {
+  font-size: var(--font-size-5xl);
+}
+.button2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 885px;
+  left: 549px;
+  font-weight: 700;
+  font-family: var(--font-poppins);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+.use-local-regular {
+  margin: 0;
+  color: rgba(0, 0, 0, 0.73);
+}
+.initial-troponin-use-container {
+  position: absolute;
+  top: 1547px;
+  left: 126px;
+  display: inline-block;
+  width: 343px;
+}
+.heart-attack-child16,
+.heart-attack-child17 {
+  cursor: pointer;
+  border: 1px solid var(--color-black);
+  padding: 0;
+  background-color: var(--color-white);
+  position: absolute;
+  top: 1605px;
+  left: 511px;
+  border-radius: var(--br-3xs);
+  box-sizing: border-box;
+  width: 573px;
+  height: 58px;
+}
+.heart-attack-child17 {
+  top: 1663px;
+}
+.normal-limit-0,
+.normal-limit-1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  left: 526px;
+  font-size: var(--font-size-5xl);
+  font-weight: 700;
+  display: inline-block;
+}
+.normal-limit-0 {
+  top: 1561px;
+  font-family: var(--font-poppins);
+  color: var(--color-black);
+  text-align: left;
+  width: 565px;
+}
+.normal-limit-1 {
+  top: 1619px;
+  width: 556px;
+}
+.heart-attack,
+.normal-limit-1,
+.normal-limit-2 {
+  text-align: left;
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
+.normal-limit-2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 1677px;
+  left: 526px;
+  font-size: var(--font-size-5xl);
+  font-weight: 700;
+  display: inline-block;
+  width: 565px;
+}
+
+.heart-attack {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1850px;
+  overflow: hidden;
+  font-size: var(--font-size-17xl);
+}
+.send {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    background-color: transparent;
+    position: absolute;
+    top: 755px;
+    left: 995px;
+    font-weight: 700;
+    font-family: var(--font-poppins);
+    color: var(--color-white);
+    display: inline-block;
+  }

@@ -1,0 +1,279 @@
+.profile-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  box-shadow: 0 16px 32px rgba(36, 216, 6, 0.25);
+  width: 1880px;
+  height: 95px;
+}
+.vector-icon1 {
+  position: absolute;
+  height: 5.18%;
+  width: 4.58%;
+  top: 2.06%;
+  right: 91.21%;
+  bottom: 92.77%;
+  left: 4.2%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.about-us1,
+.chat-box1,
+.home1,
+.life-line1,
+.profile2,
+.support1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 21px;
+  left: 165px;
+  font-size: var(--font-size-17xl);
+  font-weight: 700;
+  font-family: var(--font-poppins);
+  color: var(--color-seagreen);
+  text-align: center;
+  display: inline-block;
+  width: 186px;
+  height: 38px;
+}
+.about-us1,
+.chat-box1,
+.home1,
+.profile2,
+.support1 {
+  top: 33px;
+  left: 1053px;
+  font-size: var(--font-size-5xl);
+  width: 120px;
+}
+.about-us1,
+.chat-box1,
+.profile2,
+.support1 {
+  left: 1203px;
+  width: 121px;
+}
+.about-us1,
+.chat-box1,
+.profile2 {
+  left: 1354px;
+  width: 129px;
+}
+.about-us1,
+.profile2 {
+  left: 1513px;
+  width: 130px;
+}
+.about-us1 {
+  left: 1675px;
+}
+.profile-item {
+  position: absolute;
+  top: 151px;
+  left: 75px;
+  background-color: var(--color-white);
+  box-shadow: 0 8px 12px #019874;
+  width: 504px;
+  height: 711px;
+}
+.profile-inner {
+  position: absolute;
+  top: 197px;
+  left: 220px;
+  width: 180px;
+  height: 148px;
+}
+.ellipse-icon,
+.rectangle-icon {
+  position: absolute;
+  height: 5.33%;
+  width: 3.19%;
+  top: 24.13%;
+  right: 81.91%;
+  bottom: 70.54%;
+  left: 14.89%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangle-icon {
+  height: 4.13%;
+  width: 6.06%;
+  top: 30.38%;
+  right: 80.45%;
+  bottom: 65.49%;
+  left: 13.48%;
+}
+.ahmed-abdullah,
+.biography,
+.specialist,
+.specialist-in-heart,
+.update-profile-picture {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  font-weight: 700;
+  font-family: var(--font-poppins);
+  display: inline-block;
+}
+.update-profile-picture {
+  height: 4.6%;
+  width: 15.16%;
+  top: 40.11%;
+  left: 11.06%;
+  font-size: var(--font-size-xl);
+  color: #013d98;
+  text-align: left;
+}
+.ahmed-abdullah,
+.biography,
+.specialist,
+.specialist-in-heart {
+  top: 441px;
+  left: 99px;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+  text-align: center;
+  width: 362px;
+  height: 38px;
+}
+.biography,
+.specialist,
+.specialist-in-heart {
+  top: 151px;
+  left: 663px;
+}
+.specialist,
+.specialist-in-heart {
+  top: 507px;
+  left: 75px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-seagreen);
+  width: 225px;
+}
+.specialist-in-heart {
+  top: 586px;
+  left: 122px;
+  color: var(--color-gray-100);
+  text-align: left;
+  width: 457px;
+  height: 108px;
+}
+.a-cardiologist-is,
+.rectangle-div {
+  position: absolute;
+  left: 750px;
+  width: 1045px;
+}
+.a-cardiologist-is {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 237px;
+  font-size: var(--font-size-5xl);
+  font-weight: 700;
+  font-family: var(--font-poppins);
+  color: var(--color-gray-100);
+  text-align: left;
+  display: inline-block;
+  height: 108px;
+}
+.rectangle-div {
+  top: 402px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-aquamarine);
+  height: 79px;
+}
+.cardiologist,
+.speciality {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 411px;
+  left: 691px;
+  font-size: var(--font-size-17xl);
+  font-weight: 700;
+  font-family: var(--font-poppins);
+  color: var(--color-black);
+  text-align: center;
+  display: inline-block;
+  width: 362px;
+  height: 38px;
+}
+.cardiologist {
+  top: 416px;
+  left: 1173px;
+  font-size: var(--font-size-13xl);
+  color: var(--color-gray-200);
+}
+.profile-child1 {
+  position: absolute;
+  top: 605px;
+  left: 750px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-aquamarine);
+  width: 1045px;
+  height: 257px;
+}
+.area-of-expertise,
+.cardiologist1,
+.degrees {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 644px;
+  left: 759px;
+  font-size: var(--font-size-17xl);
+  font-weight: 700;
+  font-family: var(--font-poppins);
+  color: var(--color-black);
+  text-align: center;
+  display: inline-block;
+  width: 362px;
+  height: 124px;
+}
+.cardiologist1,
+.degrees {
+  top: 651px;
+  left: 1173px;
+  font-size: var(--font-size-13xl);
+  color: var(--color-gray-200);
+  height: 123px;
+}
+.degrees {
+  top: 514px;
+  left: 750px;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+  width: 225px;
+  height: 38px;
+}
+.mbbs-fcps-medicine {
+  position: absolute;
+  top: 523px;
+  left: 1033px;
+  font-weight: 600;
+}
+.profile1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 920px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-9xl);
+  color: rgba(0, 0, 0, 0.69);
+  font-family: var(--font-poppins);
+}

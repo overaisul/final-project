@@ -1,0 +1,221 @@
+.confirm-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-seagreen);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.25);
+  width: 451px;
+  height: 917px;
+}
+.confirm-inner,
+.confirm-item {
+  position: absolute;
+  background-color: var(--color-white);
+}
+.confirm-item {
+  top: 149px;
+  left: 266px;
+  box-shadow: 0 8px 32px #019874;
+  width: 1438px;
+  height: 711px;
+}
+.confirm-inner {
+  top: 0;
+  left: 0;
+  box-shadow: 0 16px 32px rgba(36, 216, 6, 0.25);
+  width: 1880px;
+  height: 95px;
+}
+.vector-icon2 {
+  position: absolute;
+  height: 5.18%;
+  width: 4.58%;
+  top: 2.06%;
+  right: 91.21%;
+  bottom: 92.77%;
+  left: 4.2%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.life-line2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 21px;
+  left: 165px;
+  font-size: var(--font-size-17xl);
+  font-weight: 700;
+  color: var(--color-seagreen);
+  width: 186px;
+  height: 38px;
+}
+.home2,
+.life-line2,
+.support2 {
+  position: absolute;
+  font-family: var(--font-poppins);
+  text-align: center;
+  display: inline-block;
+}
+.home2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 33px;
+  left: 1053px;
+  font-size: var(--font-size-5xl);
+  font-weight: 700;
+  color: var(--color-seagreen);
+  width: 120px;
+  height: 38px;
+}
+.support2 {
+  left: 1203px;
+  width: 121px;
+}
+.chat-box2,
+.profile3,
+.support2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 33px;
+  font-size: var(--font-size-5xl);
+  font-weight: 700;
+  color: var(--color-seagreen);
+  height: 38px;
+}
+.chat-box2 {
+  position: absolute;
+  left: 1354px;
+  font-family: var(--font-poppins);
+  text-align: center;
+  display: inline-block;
+  width: 129px;
+}
+.profile3 {
+  left: 1513px;
+  width: 130px;
+}
+.about-us2,
+.please-check-again,
+.profile3 {
+  position: absolute;
+  display: inline-block;
+  font-family: var(--font-poppins);
+  text-align: center;
+}
+.about-us2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 33px;
+  left: 1675px;
+  font-size: var(--font-size-5xl);
+  font-weight: 700;
+  color: var(--color-seagreen);
+  width: 130px;
+  height: 38px;
+}
+.please-check-again {
+  top: 190px;
+  left: 615px;
+  color: var(--color-red);
+  width: 642px;
+}
+.line-div {
+  position: absolute;
+  top: 255.5px;
+  left: 779.5px;
+  border-top: 3px solid var(--color-seagreen);
+  box-sizing: border-box;
+  width: 336px;
+  height: 3px;
+}
+.checked,
+.confirm-child1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  position: absolute;
+}
+.confirm-child1 {
+  background-color: var(--color-red);
+  top: 742px;
+  left: 794px;
+  border-radius: var(--br-xl);
+  width: 308px;
+  height: 58px;
+}
+.checked {
+  background-color: transparent;
+  top: 747px;
+  left: 874px;
+  font-size: var(--font-size-13xl);
+  font-weight: 700;
+  font-family: var(--font-poppins);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+}
+.loss-of-consciousness,
+.seizure-activity {
+  position: absolute;
+  top: 308px;
+  left: 570px;
+  display: inline-block;
+  width: 450px;
+  height: 37px;
+}
+.seizure-activity {
+  top: 366px;
+}
+.asymmetric-facial-weakness,
+.speech-disturbance,
+.visual-field-defect {
+  position: absolute;
+  top: 423px;
+  left: 570px;
+  display: inline-block;
+  width: 436px;
+  height: 38px;
+}
+.speech-disturbance,
+.visual-field-defect {
+  top: 596px;
+  height: 37px;
+}
+.visual-field-defect {
+  top: 654px;
+  width: 450px;
+}
+.asymmetric-arm-weakness,
+.asymmetric-leg-weakness {
+  position: absolute;
+  top: 538px;
+  left: 570px;
+  display: inline-block;
+  width: 474px;
+  height: 38px;
+}
+.asymmetric-arm-weakness {
+  top: 481px;
+  width: 436px;
+  height: 37px;
+}
+.confirm {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 920px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-jaldi);
+}

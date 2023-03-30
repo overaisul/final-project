@@ -1,0 +1,108 @@
+.splash-screen-1 {
+  position: absolute;
+  top: 183px;
+  left: 171px;
+  width: 849px;
+  height: 630px;
+  overflow: hidden;
+}
+.home-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  box-shadow: 0 16px 32px rgba(36, 216, 6, 0.25);
+  width: 1880px;
+  height: 95px;
+}
+.vector-icon225 {
+  position: absolute;
+  height: 5.18%;
+  width: 4.58%;
+  top: 2.06%;
+  right: 91.21%;
+  bottom: 92.77%;
+  left: 4.2%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.about-us5,
+.chat-box5,
+.home6,
+.life-line5,
+.profile6,
+.support6 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 21px;
+  left: 165px;
+  font-size: var(--font-size-17xl);
+  font-weight: 700;
+  font-family: var(--font-poppins);
+  color: var(--color-seagreen);
+  text-align: center;
+  display: inline-block;
+  width: 186px;
+  height: 38px;
+}
+.about-us5,
+.chat-box5,
+.home6,
+.profile6,
+.support6 {
+  top: 33px;
+  left: 1053px;
+  font-size: var(--font-size-5xl);
+  width: 120px;
+}
+.about-us5,
+.chat-box5,
+.profile6,
+.support6 {
+  left: 1203px;
+  width: 121px;
+}
+.about-us5,
+.chat-box5,
+.profile6 {
+  left: 1354px;
+  width: 129px;
+}
+.about-us5,
+.profile6 {
+  left: 1513px;
+  width: 130px;
+}
+.about-us5 {
+  left: 1675px;
+}
+.consult-specialist-doctors,
+.in-order-to {
+  position: absolute;
+  top: 360px;
+  left: 1124px;
+  display: inline-block;
+  width: 504px;
+}
+.in-order-to {
+  top: 498px;
+  left: 1172px;
+  font-size: var(--font-size-xl);
+  width: 435px;
+  height: 162px;
+}
+.home5 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 920px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

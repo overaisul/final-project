@@ -1,0 +1,164 @@
+.start-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  box-shadow: 0 16px 32px rgba(36, 216, 6, 0.25);
+  width: 1880px;
+  height: 95px;
+}
+.vector-icon247 {
+  position: absolute;
+  height: 5.18%;
+  width: 4.58%;
+  top: 2.06%;
+  right: 91.21%;
+  bottom: 92.77%;
+  left: 4.2%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.about-us8,
+.chat-box8,
+.home9,
+.life-line8,
+.profile9,
+.support9 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 21px;
+  left: 165px;
+  font-size: var(--font-size-17xl);
+  font-weight: 700;
+  font-family: var(--font-poppins);
+  color: var(--color-seagreen);
+  text-align: center;
+  display: inline-block;
+  width: 186px;
+  height: 38px;
+}
+.about-us8,
+.chat-box8,
+.home9,
+.profile9,
+.support9 {
+  top: 33px;
+  left: 1053px;
+  font-size: var(--font-size-5xl);
+  width: 120px;
+}
+.about-us8,
+.chat-box8,
+.profile9,
+.support9 {
+  left: 1203px;
+  width: 121px;
+}
+.about-us8,
+.chat-box8,
+.profile9 {
+  left: 1354px;
+  width: 129px;
+}
+.about-us8,
+.profile9 {
+  left: 1513px;
+  width: 130px;
+}
+.about-us8 {
+  left: 1675px;
+}
+.undraw-medicine-b-1-ol-1-icon {
+  position: absolute;
+  top: 203px;
+  left: 162px;
+  width: 891px;
+  height: 648px;
+  overflow: hidden;
+}
+.consult-specialist-doctors1,
+.in-order-to1 {
+  position: absolute;
+  top: 317px;
+  left: 1075px;
+  display: inline-block;
+  width: 550px;
+  height: 123px;
+}
+.in-order-to1 {
+  top: 475px;
+  left: 1127px;
+  font-size: var(--font-size-xl);
+  width: 475px;
+  height: 184px;
+}
+.start-item {
+  background-color: var(--color-seagreen);
+  top: 653px;
+  left: 1116px;
+  width: 259px;
+  height: 67px;
+}
+.sign-as-a,
+.start-inner,
+.start-item {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  position: absolute;
+}
+.sign-as-a {
+  background-color: transparent;
+  top: 670px;
+  left: 1152px;
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  font-family: var(--font-poppins);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  width: 240px;
+  height: 49px;
+}
+.start-inner {
+  background-color: var(--color-white);
+  top: 653px;
+  left: 1375px;
+  box-shadow: 0 8px 32px rgba(1, 152, 116, 0.75);
+  width: 258px;
+  height: 64px;
+}
+.sign-as-a1,
+.start {
+  font-family: var(--font-poppins);
+}
+.sign-as-a1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 670px;
+  left: 1392px;
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  color: var(--color-seagreen);
+  text-align: left;
+  display: inline-block;
+  width: 241px;
+  height: 49px;
+}
+.start {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 920px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+}
